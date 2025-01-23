@@ -9,8 +9,9 @@
 <body>
 	<h1>Jenkins테스트하기 - 톰캣에 배포</h1>
 	<hr/>
-	<h2><a href="/springmvc/getdata">젠킨스 연습</a></h2>
-	<h2><a href="/springmvc/gugu">자동 배포화</a></h2>
+	<h2><a href="/springmvc/getdata">젠킨스로 아이템 생성 shell연습</a></h2>
+	<h2><a href="/springmvc/gugu">젠킨스로 빌드와 배포를 자동화</a></h2>
+	<h2><a href="/springmvc/gugu">젠킨스로 GIThub 변경시 자동빌드</a></h2>
 </body>
 </html>
 
